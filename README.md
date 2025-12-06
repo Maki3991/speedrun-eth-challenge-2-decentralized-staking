@@ -1,5 +1,5 @@
 ### Speedrun ETH Challenge #1
-Finished on 02/12/2025
+Finished on 2025/12/06
 
 比较难，光是在checkpoint1的代码就卡了一上午，最后用的Gemini一步一步带我把代码搭建起来的
 
